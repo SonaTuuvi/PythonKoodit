@@ -25,11 +25,6 @@ Tämä projekti sisältää erilaisia pieniä Python-ohjelmia, jotka suorittavat
    - Kolmenumeroinen koodi (väliltä 0..9).
    - Nelinumeroinen koodi (väliltä 1..6).
 
----
 
-## Käyttö
-Jokainen ohjelma voidaan suorittaa Pythonilla. Suorita haluamasi ohjelma seuraavasti:
-```bash
-python tiedoston_nimi.py
 
 
