@@ -3,7 +3,7 @@
 
 Tämä projekti sisältää erilaisia pieniä Python-ohjelmia, jotka suorittavat annettuja laskennallisia ja loogisia tehtäviä.
 
-## Tehtävät
+## Moduuli_2 Tehtävät
 
 1. **Tervehdys käyttäjän nimellä**  
    Ohjelma kysyy käyttäjän nimen ja tervehtii häntä henkilökohtaisesti.
