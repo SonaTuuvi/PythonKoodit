@@ -11,4 +11,3 @@ pinta_ala = math.pi * sade**2
 # {pinta_ala:.2f} - Tämä sisällä oleva 'f' tarkoittaa, että pinta-ala tulostetaan
 # kahden desimaalin tarkkuudella ('.2') liukulukuna ('f' = floating-point number)
 print(f"Ympyrän pinta-ala on: {pinta_ala:.2f}")
-
